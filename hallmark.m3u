@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="hallmark_hits" tvg-name="Non-Stop Hallmark Hits" group-title="Hallmark",Non-Stop Hallmark Hits
+https://crwn-hits.akamaized.net/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="hallmark_romcoms" tvg-name="Non-Stop Rom-Coms" group-title="Hallmark",Non-Stop Rom-Coms
+https://crwn-nsrc.akamaized.net/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="hallmark_christmas" tvg-name="Non-Stop Christmas" group-title="Hallmark",Non-Stop Christmas
+https://crwn-christmas.akamaized.net/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="hallmark_mysteries" tvg-name="Non-Stop Mysteries" group-title="Hallmark",Non-Stop Mysteries
+https://crwn-mysteries.akamaized.net/hls/playlist.m3u8
