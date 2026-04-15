@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hallmark_hits" tvg-name="Non-Stop Hallmark Hits" group-title="Hallmark",Non-Stop Hallmark Hits
+#EXTINF:-1 tvg-id="hallmark_hits" tvg-name="Non-Stop Hallmark Hits" tvg-logo="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/Linear-1543-Hallmark/logo/landscape/channelimage?locale=en" group-title="Hallmark",Non-Stop Hallmark Hits
 https://crwn-hits.akamaized.net/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="hallmark_romcoms" tvg-name="Non-Stop Rom-Coms" group-title="Hallmark",Non-Stop Rom-Coms
+#EXTINF:-1 tvg-id="hallmark_romcoms" tvg-name="Non-Stop Rom-Coms" tvg-logo="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/Linear-1268-Hallmark/logo/landscape/channelimage?locale=en" group-title="Hallmark",Non-Stop Rom-Coms
 https://crwn-nsrc.akamaized.net/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="hallmark_christmas" tvg-name="Non-Stop Christmas" group-title="Hallmark",Non-Stop Christmas
+#EXTINF:-1 tvg-id="hallmark_christmas" tvg-name="Non-Stop Christmas" tvg-logo="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/Linear-1187-Hallmark/logo/landscape/channelimage?locale=en" group-title="Hallmark",Non-Stop Christmas
 https://crwn-christmas.akamaized.net/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="hallmark_mysteries" tvg-name="Non-Stop Mysteries" group-title="Hallmark",Non-Stop Mysteries
+#EXTINF:-1 tvg-id="hallmark_mysteries" tvg-name="Non-Stop Mysteries" tvg-logo="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/Linear-1186-Hallmark/logo/landscape/channelimage?locale=en" group-title="Hallmark",Non-Stop Mysteries
 https://crwn-mysteries.akamaized.net/hls/playlist.m3u8
