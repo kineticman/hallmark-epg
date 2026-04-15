@@ -178,6 +178,24 @@
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Hallmark-8201983-1776366933/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
+  <programme start="20260416204003 +0000" stop="20260416220433 +0000" channel="hallmark_hits">
+    <title>At Home in Mitford</title>
+    <desc>With a case of writer's block, a children's author escapes to small town Mitford for a change of scenery. She soon finds the heart and soul of the southern town in a priest as they work together to care for a young boy.</desc>
+    <category>Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Hallmark-8201984-1776372003/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260416220433 +0000" stop="20260416232956 +0000" channel="hallmark_hits">
+    <title>One Winter Weekend</title>
+    <desc>Cara, a magazine writer, who gets burned by her boyfriend on New Years' Eve, decides to go on a dating detox. Challenged by her employer to write about it, she hopes a ski getaway with her best friend will spark inspiration.</desc>
+    <category>Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Hallmark-8201985-1776377073/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
   <programme start="20260415190353 +0000" stop="20260415202823 +0000" channel="hallmark_romcoms">
     <title>Falling for Vermont</title>
     <desc>When a best-selling author decides to escape the media, her plan goes awry when she's caught in a thunderstorm and crashes her car. She wakes up with no memory of who she is.</desc>
@@ -339,6 +357,24 @@
       <value>TV-G</value>
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Hallmark-8186833-1776366145/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260416202655 +0000" stop="20260416215125 +0000" channel="hallmark_romcoms">
+    <title>The Way to You</title>
+    <desc>New Yorkers Emma and Conrad agree to help each other find their missed connections after a subway blackout. Their search might lead to love, but not where either of them expects to find it. Stars Kim Matula, Aaron O'Connell.</desc>
+    <category>Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Hallmark-8186834-1776371215/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260416215125 +0000" stop="20260416231359 +0000" channel="hallmark_romcoms">
+    <title>You're Bacon Me Crazy</title>
+    <desc>Cleo Morelli, an aspiring Portland chef, tries to win a food truck competition while the competition tries to win her heart. Stars Natalie Hall and Michael Rady.</desc>
+    <category>Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Hallmark-8186835-1776376285/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
   <programme start="20260415191819 +0000" stop="20260415204555 +0000" channel="hallmark_christmas">
     <title>One Royal Holiday</title>
@@ -502,6 +538,24 @@
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Hallmark-8190342-1776368322/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
+  <programme start="20260416210346 +0000" stop="20260416222846 +0000" channel="hallmark_christmas">
+    <title>The Christmas Quest</title>
+    <desc>Stefanie teams up with ex-husband Chase to go to Iceland at Christmastime in search of the legendary treasure of the Yule Lads. Lacey Chabert, Kristoffer Polaha.</desc>
+    <category>Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Hallmark-8190343-1776373426/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260416222846 +0000" stop="20260416235733 +0000" channel="hallmark_christmas">
+    <title>The Most Wonderful Time of the Year</title>
+    <desc>Single mom Jennifer Cullen is having trouble finding joy in the holiday season.  Then her Uncle Ralph arrives at her home with the young, handsome Morgan Derby.  Morgan's love of Christmas, and life, is contagious.</desc>
+    <category>Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Hallmark-8190344-1776378526/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
   <programme start="20260415184157 +0000" stop="20260415200657 +0000" channel="hallmark_mysteries">
     <title>A Zest for Death: A Hannah Swensen Mystery</title>
     <desc>Hannah solves a murder while her relationship with Mike is on the rocks. Alison Sweeney, Cameron Mathison, Barbara Niven.</desc>
@@ -663,5 +717,23 @@
       <value>TV-PG</value>
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Hallmark-8189046-1776365285/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260416201305 +0000" stop="20260416213912 +0000" channel="hallmark_mysteries">
+    <title>Hailey Dean Mysteries: Murder, with Love</title>
+    <desc>Former prosecutor-turned-therapist Hailey Dean is acutely observant. During a tragic week, one of her patients loses her parents to fatal accidents. Stars Kellie Martin, Viv Leacock, Giacomo Baessato, Cindy Busby.</desc>
+    <category>Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Hallmark-8189047-1776370385/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260416213912 +0000" stop="20260416230343 +0000" channel="hallmark_mysteries">
+    <title>Hailey Dean Mysteries: Deadly Estate</title>
+    <desc>When Hailey helps her friend Pam sell her recently deceased parent's estate, she becomes suspicious when Pam suddenly leaves town without notice.  To make matters worse, Pam's boyfriend is the sudden victim of an accident.</desc>
+    <category>Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Hallmark-8189048-1776375552/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
 </tv>
