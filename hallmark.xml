@@ -16,10 +16,6 @@
     <display-name>Non-Stop Mysteries</display-name>
     <icon src="https://raw.githubusercontent.com/kineticman/hallmark-epg/main/logos/mysteries_improved.png" />
   </channel>
-  <channel id="hallmark_heart">
-    <display-name>Watch When Calls the Heart</display-name>
-    <icon src="https://raw.githubusercontent.com/kineticman/hallmark-epg/main/logos/heart_improved.png" />
-  </channel>
   <programme start="20260420123236 +0000" stop="20260420135742 +0000" channel="hallmark_hits">
     <title>The Irresistible Blueberry Farm</title>
     <desc>Ellen Branford, a high-powered attorney, finds love, purpose, and the promise of a simpler life when she sets off on a journey to fulfill her grandmother's dying wish, to find the boy she once loved and give him her last letter.</desc>
@@ -200,15 +196,6 @@
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Hallmark-8242274-1776787310/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260420115753 +0000" stop="20260420132208 +0000" channel="hallmark_romcoms">
-    <title>Under the Autumn Moon</title>
-    <desc>When an executive convinces her boss that a ranch would be perfect for their company retreats, he agrees to let her check it out. Her plan hits a snag when the owner refuses to sell unless she can promise to preserve its history.</desc>
-    <category>Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Hallmark-8243174-1776686273/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
   <programme start="20260420132208 +0000" stop="20260420144733 +0000" channel="hallmark_romcoms">
     <title>3 Bed, 2 Bath, 1 Ghost</title>
     <desc>A 1920's ghost refuses to leave estate agent Anna's newly listed home. Worse, the spirit is convinced she cannot "pass over" until she gets Anna back together with her ex. Stars Julie Gonzalo, Chris McNally, Madeleine Arthur.</desc>
@@ -380,14 +367,14 @@
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Hallmark-8243193-1776783152/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260420121716 +0000" stop="20260420134216 +0000" channel="hallmark_christmas">
-    <title>Our Holiday Story</title>
-    <desc>A loving couple shares the story of how they met and fell in love when their daughter's boyfriend comes to meet them for the first time at Christmas. Starring Nikki DeLoach and Warren Christie.</desc>
+  <programme start="20260421161732 +0000" stop="20260421174232 +0000" channel="hallmark_romcoms">
+    <title>Love of the Irish</title>
+    <desc>Tired of her bad luck, Fiona takes her mom on a trip to Ireland to turn things around where she meets a charming single dad who helps her make her own luck. Stars Shenae Grimes-Beech, Stephen Hagan, Moira Kelly.</desc>
     <category>Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Hallmark-8234314-1776687436/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Hallmark-8243194-1776788252/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
   <programme start="20260420134216 +0000" stop="20260420150716 +0000" channel="hallmark_christmas">
     <title>A Royal Montana Christmas</title>
@@ -559,6 +546,15 @@
       <value>TV-G</value>
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Hallmark-8234333-1776786133/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260421170713 +0000" stop="20260421183213 +0000" channel="hallmark_christmas">
+    <title>My Norwegian Holiday</title>
+    <desc>Dealing with her grandma's death, JJ seeks dissertation inspiration. Henrik, drawn to her troll figurine, invites her to Bergen, Norway, to trace its origins. Starring Rhiannon Fish and David Elsendoorn.</desc>
+    <category>Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Hallmark-8234334-1776791233/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
   <programme start="20260420123350 +0000" stop="20260420135850 +0000" channel="hallmark_mysteries">
     <title>Curious Caterer: Foiled Plans</title>
