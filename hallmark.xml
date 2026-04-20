@@ -16,15 +16,10 @@
     <display-name>Non-Stop Mysteries</display-name>
     <icon src="https://raw.githubusercontent.com/kineticman/hallmark-epg/main/logos/mysteries_improved.png" />
   </channel>
-  <programme start="20260420110741 +0000" stop="20260420123236 +0000" channel="hallmark_hits">
-    <title>My Secret Valentine</title>
-    <desc>A young woman takes advice from the chalkboard notes  that her mysterious house rental tenant leaves when a slick sales rep arrives with plans to buy her family' prized winery. Stars Lacey Chabert, Andrew Walker.</desc>
-    <category>Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Hallmark-8242242-1776683261/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
+  <channel id="hallmark_heart">
+    <display-name>Watch When Calls the Heart</display-name>
+    <icon src="https://raw.githubusercontent.com/kineticman/hallmark-epg/main/logos/heart_improved.png" />
+  </channel>
   <programme start="20260420123236 +0000" stop="20260420135742 +0000" channel="hallmark_hits">
     <title>The Irresistible Blueberry Farm</title>
     <desc>Ellen Branford, a high-powered attorney, finds love, purpose, and the promise of a simpler life when she sets off on a journey to fulfill her grandmother's dying wish, to find the boy she once loved and give him her last letter.</desc>
@@ -195,6 +190,15 @@
       <value>TV-G</value>
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Hallmark-8242273-1776782068/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260421160150 +0000" stop="20260421172635 +0000" channel="hallmark_hits">
+    <title>Love, Of Course</title>
+    <desc>When widowed mother Amy moves her daughter Cara to her college dorm, Amy finds herself searching for the next step. While at the university, Amy gets an offer she can't refuse and meets Noah and discovers a new life of her own.</desc>
+    <category>Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Hallmark-8242274-1776787310/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
   <programme start="20260420115753 +0000" stop="20260420132208 +0000" channel="hallmark_romcoms">
     <title>Under the Autumn Moon</title>
@@ -556,15 +560,6 @@
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Hallmark-8234333-1776786133/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260420110825 +0000" stop="20260420123350 +0000" channel="hallmark_mysteries">
-    <title>Curious Caterer: Fatal Vows</title>
-    <desc>When Goldy agreed to cater Tom's ex Jessamyn's elaborate wedding, she didn't expect a dead groom and missing bridezilla would bring her together with Tom again, to catch a killer and find Jess. Stars Nikki DeLoach &amp; Andrew Walker.</desc>
-    <category>Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Hallmark-8228378-1776683305/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
   <programme start="20260420123350 +0000" stop="20260420135850 +0000" channel="hallmark_mysteries">
     <title>Curious Caterer: Foiled Plans</title>
     <desc>Goldy Berry's Medieval feast at Hyde Castle gets interrupted by a murder. She teams up with Detective Shultz to solve the mystery before the murderer strikes again. Nikki DeLoach, Andrew Walker.</desc>
@@ -735,5 +730,14 @@
       <value>TV-PG</value>
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Hallmark-8228397-1776780210/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260421152830 +0000" stop="20260421165330 +0000" channel="hallmark_mysteries">
+    <title>One Bad Apple: A Hannah Swensen Mystery</title>
+    <desc>Hannah meets a new side of law &amp; order as she investigates a murder and crosses paths with by-the-books prosecuting attorney Chad Norton.  Meanwhile, Delores has a secret. Stars Alison Sweeney, Victor Webster and Barbara Niven.</desc>
+    <category>Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Hallmark-8228398-1776785310/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
 </tv>

@@ -7,3 +7,5 @@ https://crwn-nsrc.akamaized.net/hls/playlist.m3u8
 https://crwn-christmas.akamaized.net/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="hallmark_mysteries" tvg-name="Non-Stop Mysteries" tvg-logo="https://raw.githubusercontent.com/kineticman/hallmark-epg/main/logos/mysteries_improved.png" group-title="Hallmark",Non-Stop Mysteries
 https://crwn-mysteries.akamaized.net/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="hallmark_heart" tvg-name="Watch When Calls the Heart" tvg-logo="https://raw.githubusercontent.com/kineticman/hallmark-epg/main/logos/heart_improved.png" group-title="Hallmark",Watch When Calls the Heart
+https://crwn-heart.akamaized.net/hls/playlist.m3u8
