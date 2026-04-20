@@ -2,19 +2,19 @@
 <tv generator-info-name="hallmark_build.py">
   <channel id="hallmark_hits">
     <display-name>Non-Stop Hallmark Hits</display-name>
-    <icon src="https://raw.githubusercontent.com/kineticman/hallmark/main/logos/hits_improved.png" />
+    <icon src="https://raw.githubusercontent.com/kineticman/hallmark-epg/main/logos/hits_improved.png" />
   </channel>
   <channel id="hallmark_romcoms">
     <display-name>Non-Stop Rom-Coms</display-name>
-    <icon src="https://raw.githubusercontent.com/kineticman/hallmark/main/logos/romcoms_improved.png" />
+    <icon src="https://raw.githubusercontent.com/kineticman/hallmark-epg/main/logos/romcoms_improved.png" />
   </channel>
   <channel id="hallmark_christmas">
     <display-name>Non-Stop Christmas</display-name>
-    <icon src="https://raw.githubusercontent.com/kineticman/hallmark/main/logos/christmas_improved.png" />
+    <icon src="https://raw.githubusercontent.com/kineticman/hallmark-epg/main/logos/christmas_improved.png" />
   </channel>
   <channel id="hallmark_mysteries">
     <display-name>Non-Stop Mysteries</display-name>
-    <icon src="https://raw.githubusercontent.com/kineticman/hallmark/main/logos/mysteries_improved.png" />
+    <icon src="https://raw.githubusercontent.com/kineticman/hallmark-epg/main/logos/mysteries_improved.png" />
   </channel>
   <programme start="20260420110741 +0000" stop="20260420123236 +0000" channel="hallmark_hits">
     <title>My Secret Valentine</title>
