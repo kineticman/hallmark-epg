@@ -16,193 +16,6 @@
     <display-name lang="en">Non-Stop Mysteries</display-name>
     <icon src="https://raw.githubusercontent.com/kineticman/hallmark-epg/main/logos/mysteries_improved.png" />
   </channel>
-  <programme start="20260910103051 +0000" stop="20260910120023 +0000" channel="hallmark_hits">
-    <title lang="en">Season for Love</title>
-    <desc lang="en">When a talented chef returns to her Texas hometown, she winds up entering the town's famous BBQ cookoff and gets more than she bargained for when the surprise judge turns out to be her high school love. Stars Autumn Reeser.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202258-1789036251/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260910120023 +0000" stop="20260910133016 +0000" channel="hallmark_hits">
-    <title lang="en">Love, Once and Always</title>
-    <desc lang="en">When Lucy's childhood sweetheart plans to tear down the Gilded Age estate and replace it with a golf course, Lucy fights to preserve the historic mansion at all costs. Stars Amanda Schull and Peter Porte.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202259-1789041623/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260910133016 +0000" stop="20260910145758 +0000" channel="hallmark_hits">
-    <title lang="en">A Valentine's Match</title>
-    <desc lang="en">Fired from her job as a reality TV host, Natalie returns home for Valentine's Day, only to find herself running the town festival's auction with her ex-fiance thanks to two scheming mothers. Bethany Joy Lenz, Luke Macfarlane.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202260-1789047016/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260910145758 +0000" stop="20260910162946 +0000" channel="hallmark_hits">
-    <title lang="en">Love on the Sidelines</title>
-    <desc lang="en">A romantic comedy about a down-on-her-luck young woman who falls into a job as a personal assistant to a star quarterback.  He's never had a female assistant before and she knows nothing about football.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202261-1789052278/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260910162946 +0000" stop="20260910175904 +0000" channel="hallmark_hits">
-    <title lang="en">Unleashing Mr. Darcy</title>
-    <desc lang="en">Elizabeth gets the opportunity of showing her dog in a New York dog show. The judge, Donovan Darcy, comes across as aristocratic and rude, and a chain of misunderstandings unfold, complicating their attraction to one another.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202262-1789057786/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260910175904 +0000" stop="20260910193053 +0000" channel="hallmark_hits">
-    <title lang="en">Marrying Mr. Darcy</title>
-    <desc lang="en">Elizabeth and Donovan are very different people; she's a down-to-earth high school teacher and he's a reserved New York businessman. So, when they get engaged, their trip to the altar is lively and unpredictable.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202263-1789063144/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260910193053 +0000" stop="20260910210259 +0000" channel="hallmark_hits">
-    <title lang="en">A Royal Christmas</title>
-    <desc lang="en">Prince Leopold, heir to the throne of Cordinia, falls in love with Emily Taylor, a humble seamstress from Philadelphia. But the young prince's wishes are challenged by his mother, who wants him to marry royalty.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202264-1789068653/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260910210259 +0000" stop="20260910223217 +0000" channel="hallmark_hits">
-    <title lang="en">Love, Romance &amp; Chocolate</title>
-    <desc lang="en">Emma and chocolatier Luc compete for Belgium's Royal Chocolatier. The beauty and romance of Bruges inspire unique chocolate combinations, but will their entry win without them losing their hearts? Stars Lacey Chabert, Will Kemp.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202265-1789074179/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260910223217 +0000" stop="20260911000135 +0000" channel="hallmark_hits">
-    <title lang="en">The Dancing Detective: A Deadly Tango</title>
-    <desc lang="en">A no-nonsense detective must reluctantly team up with a charismatic British dance star in order to solve a murder. Stars Lacey Chabert, Will Kemp.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202266-1789079537/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911000135 +0000" stop="20260911013119 +0000" channel="hallmark_hits">
-    <title lang="en">Crossword Mysteries: A Puzzle to Die For</title>
-    <desc lang="en">After several of her puzzles are linked to the murder of an art gallery owner, a crossword puzzle editor teams up with a no nonsense detective to stop a killer in their midst. Stars Lacey Chabert, Brennan Elliott.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202267-1789084895/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911013119 +0000" stop="20260911025921 +0000" channel="hallmark_hits">
-    <title lang="en">Crossword Mysteries: Proposing Murder</title>
-    <desc lang="en">Tess dives into Logan's murder investigation of her friend who was about to propose with her help. As she grows closer to the truth, she fears it could ruin everyone's happily ever after. Starring Lacey Chabert, Brennan Elliott.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202268-1789090279/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911025921 +0000" stop="20260911042839 +0000" channel="hallmark_hits">
-    <title lang="en">His &amp; Hers</title>
-    <desc lang="en">Lawyers Mark and Dana are the perfect married couple until they find themselves on opposite sides of a highly public divorce case involving a warring reality show couple. Stars Lacey Chabert, Brennan Elliott.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202269-1789095561/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911042839 +0000" stop="20260911055756 +0000" channel="hallmark_hits">
-    <title lang="en">Love at First Dance</title>
-    <desc lang="en">Hope is tasked with teaching Manhattan's former "Most Eligible Bachelor" how to dance for his extravagant, society wedding. But as the dance lessons progress, complications ensue when feelings begin to develop between them.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202270-1789100919/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911055756 +0000" stop="20260911072714 +0000" channel="hallmark_hits">
-    <title lang="en">A Harvest Wedding</title>
-    <desc lang="en">Sarah, a wedding planner in New York, is hired to plan the most anticipated wedding of the season. But the bride wants the wedding to be on the family farm which is now being run by her older brother who happens to be Sarah's ex.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202271-1789106276/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911072714 +0000" stop="20260911085632 +0000" channel="hallmark_hits">
-    <title lang="en">At Home in Mitford</title>
-    <desc lang="en">With a case of writer's block, a children's author escapes to small town Mitford for a change of scenery. She soon finds the heart and soul of the southern town in a priest as they work together to care for a young boy.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202272-1789111634/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911085632 +0000" stop="20260911102643 +0000" channel="hallmark_hits">
-    <title lang="en">One Winter Weekend</title>
-    <desc lang="en">Cara, a magazine writer, who gets burned by her boyfriend on New Years' Eve, decides to go on a dating detox. Challenged by her employer to write about it, she hopes a ski getaway with her best friend will spark inspiration.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202273-1789116992/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911102643 +0000" stop="20260911115606 +0000" channel="hallmark_hits">
-    <title lang="en">Frozen in Love</title>
-    <desc lang="en">When struggling bookstore owner Mary and the bad boy of professional hockey, Adam, are teamed together to help facilitate an image makeover for the other, they soon realize that opposites attract.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202274-1789122403/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
   <programme start="20260911115606 +0000" stop="20260911132524 +0000" channel="hallmark_hits">
     <title lang="en">Harvest Love</title>
     <desc lang="en">A widowed surgeon visits her family's pear orchard in hopes of reconnecting with her distant son. She starts to fall for the farm manager, Will, who is growing a new hybrid pear, and teaches her the importance of her heritage.</desc>
@@ -236,84 +49,183 @@
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202277-1789138495/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910111939 +0000" stop="20260910124857 +0000" channel="hallmark_romcoms">
-    <title lang="en">Haunted Wedding</title>
-    <desc lang="en">Jana and Brian's plan to wed is in jeopardy when Angelique, a ghost in an 18th century wedding dress, vows to stop it. The couple must work together to save their wedding from disaster. Stars Janel Parrish, Dominic Sherwood.</desc>
+  <programme start="20260911163318 +0000" stop="20260911180236 +0000" channel="hallmark_hits">
+    <title lang="en">My Favorite Wedding</title>
+    <desc lang="en">Tess, is going to Chicago for the weekend to be the maid of honor at her best friend's wedding. Her boyfriend, Dex, backs out of the trip at the last minute, leaving Tess in the hands of the groom's best man, Michael.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221704-1789039179/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202278-1789144398/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910124857 +0000" stop="20260910141809 +0000" channel="hallmark_romcoms">
-    <title lang="en">Fourth Down and Love</title>
-    <desc lang="en">Sparks are reignited when a single mother and a pro football player coincidentally meet again on her daughter's flag football field after his career is interrupted by a sports injury. Stars Pascale Hutton, Ryan Paevey.</desc>
+  <programme start="20260911180236 +0000" stop="20260911193206 +0000" channel="hallmark_hits">
+    <title lang="en">Autumn Dreams</title>
+    <desc lang="en">A young couple's spur of the moment marriage is immediately annulled by the bride's parents. Years later, they discover that a glitch in the paperwork means they are still husband and wife.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221705-1789044537/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202279-1789149756/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910141809 +0000" stop="20260910154654 +0000" channel="hallmark_romcoms">
-    <title lang="en">Taking the Reins</title>
-    <desc lang="en">A writer goes back to the family ranch to write an article about her passion for horses and discovers what ended her marriage and why she stopped riding horses. Stars Nikki DeLoach, Scott Porter.</desc>
+  <programme start="20260911193206 +0000" stop="20260911210140 +0000" channel="hallmark_hits">
+    <title lang="en">Garage Sale Mysteries: Pilot</title>
+    <desc lang="en">Jennifer loves scouring garage sales to look for items to sell in her resell shop, but realizes a series of burglaries and a friend's murder may have a connection to the sales.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202280-1789155126/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260911210140 +0000" stop="20260911223231 +0000" channel="hallmark_hits">
+    <title lang="en">Birthday Wish</title>
+    <desc lang="en">A woman expecting to get engaged on her all-important 30th birthday gets a different surprise after she makes her birthday wish: a glimpse into her future - which doesn't resemble anything she's ever imagined for herself.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221706-1789049889/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202281-1789160500/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910154654 +0000" stop="20260910171706 +0000" channel="hallmark_romcoms">
-    <title lang="en">Because of Cupid</title>
-    <desc lang="en">Best friends Naomi and Marcus participate in a Valentine's Day mocktail competition but things go awry when Cupid interferes with a love potion that affects Marcus and several of their friends. Stars Amy Groening, Evan Roderick.</desc>
+  <programme start="20260911223231 +0000" stop="20260912000219 +0000" channel="hallmark_hits">
+    <title lang="en">Love on the Menu</title>
+    <desc lang="en">A chef makes a deal with a frozen food executive in order to save his restaurant. Stars Autumn Reeser, Kavan Smith, Barbara Niven.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221707-1789055214/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202282-1789165951/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910171706 +0000" stop="20260910184624 +0000" channel="hallmark_romcoms">
-    <title lang="en">The Heiress and the Handyman</title>
-    <desc lang="en">After losing her fortune, an heiress moves to a rural farm where she mistakes her handsome neighbor for the handyman. To live up to her family's legacy, he helps her compete at the county fair. Stars Jodie Sweetin, Corey Sevier.</desc>
+  <programme start="20260912000219 +0000" stop="20260912013336 +0000" channel="hallmark_hits">
+    <title lang="en">My Summer Prince</title>
+    <desc lang="en">When a prince finds himself in some hot water for his partying ways, the royal family hires a PR consultant.  But when she falls ill, her assistant steps in to take control of the campaign and possibly the prince's heart.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221708-1789060626/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202283-1789171339/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910184624 +0000" stop="20260910201542 +0000" channel="hallmark_romcoms">
-    <title lang="en">Autumn at Apple Hill</title>
-    <desc lang="en">Elise is trying to keep her family inn afloat when the CFO of a major hotel chain checks in as a guest. Is he there to enjoy the fall season or try to take over her beloved inn? Stars Erin Cahill, Wes Brown.</desc>
+  <programme start="20260912013336 +0000" stop="20260912030254 +0000" channel="hallmark_hits">
+    <title lang="en">Valentine Ever After</title>
+    <desc lang="en">Big city girls Julia and her best friend Sydney take a trip to a dude ranch in Wyoming for a fun weekend getaway, but after a brawl at the local bar, the girls are sentenced to stay in town and perform community service.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221709-1789065984/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202284-1789176816/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910201542 +0000" stop="20260910214442 +0000" channel="hallmark_romcoms">
-    <title lang="en">Sweet Autumn</title>
-    <desc lang="en">Aunt Dee splits her candy shop between her niece, Maggie, and maple farmer, Dex. Following letters Dee left, the two uncover the reason for her decision, during the Sweet Autumn festival. Stars Nikki DeLoach &amp; Andrew Walker.</desc>
+  <programme start="20260912030254 +0000" stop="20260912043217 +0000" channel="hallmark_hits">
+    <title lang="en">A Royal Winter</title>
+    <desc lang="en">When Maggie Marks faces a career decision, she flees to Europe for some soul searching. There she encounters a handsome European playboy prince, and lands herself in a world she has never known and finds a new direction in life.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221710-1789071342/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202285-1789182174/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910214442 +0000" stop="20260910231524 +0000" channel="hallmark_romcoms">
+  <programme start="20260912043217 +0000" stop="20260912060135 +0000" channel="hallmark_hits">
+    <title lang="en">Love on Ice</title>
+    <desc lang="en">Former figure skating champion, Emily James, now 27 years old and considered a relic in the world of figure skating, gets an improbably shot to reclaim skating glory when a young coach sees greatness in her.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202286-1789187537/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912060135 +0000" stop="20260912073227 +0000" channel="hallmark_hits">
+    <title lang="en">Harvest Moon</title>
+    <desc lang="en">When her family goes bankrupt, a city girl travels to the country to try and fix up a struggling pumpkin farm that her father bought as an investment to get her money back.  There she meets Brett, the handsome farm manager.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202287-1789192895/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912073227 +0000" stop="20260912090145 +0000" channel="hallmark_hits">
+    <title lang="en">Surprised by Love</title>
+    <desc lang="en">A young businesswoman tries to convince her uptight parents to accept her boyfriend, but then she falls for an old high-school flame. Stars Hilarie Burton, Paul Campbell, and Tim Conway.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202288-1789198347/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912090145 +0000" stop="20260912103018 +0000" channel="hallmark_hits">
+    <title lang="en">Under the Autumn Moon</title>
+    <desc lang="en">When an executive convinces her boss that a ranch would be perfect for their company retreats, he agrees to let her check it out. Her plan hits a snag when the owner refuses to sell unless she can promise to preserve its history.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202289-1789203705/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912103018 +0000" stop="20260912115911 +0000" channel="hallmark_hits">
+    <title lang="en">Winter in Vail</title>
+    <desc lang="en">Chelsea inherits a house in Vail. She meets Owen and gets a much needed break. Together, they put on Strudelfest to highlight the charm of Old Vail. Lacey Chabert, Tyler Hynes.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202290-1789209018/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912115911 +0000" stop="20260912132829 +0000" channel="hallmark_hits">
+    <title lang="en">Groundswell</title>
+    <desc lang="en">On the heels of a personal and professional setback, Chef Emma travels to Hawaii where she meets Ben, a handsome, reclusive surf instructor whose lessons help her to regain her footing. Starring Lacey Chabert, Ektor Rivera.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202291-1789214351/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912132829 +0000" stop="20260912150039 +0000" channel="hallmark_hits">
+    <title lang="en">Love on Safari</title>
+    <desc lang="en">After Kira inherits a wildlife reserve in South Africa, she travels there to meet the no-nonsense head ranger, Tom. He urges her to take a safari in hopes that she will fall in love with the land, the animals, and hopefully him.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202292-1789219709/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912150039 +0000" stop="20260912162957 +0000" channel="hallmark_hits">
+    <title lang="en">Lost in Paradise</title>
+    <desc lang="en">When the founder of a high-end fashion company gets marooned on an "deserted" island with a chef, romance blossoms as they work together to survive. Starring Lacey Chabert and Ian Harding.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202293-1789225239/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912162957 +0000" stop="20260912180039 +0000" channel="hallmark_hits">
     <title lang="en">Moonlight in Vermont</title>
     <desc lang="en">When Fiona gets dumped she heads for a week in Vermont at her Dad's country Inn. There she runs into her ex with his new girlfriend.  She strikes a deal with the Inn's chef, Derek, to be her "boyfriend" for the week.</desc>
     <category lang="en">Movie</category>
@@ -322,95 +234,7 @@
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221711-1789076682/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260910231524 +0000" stop="20260911004442 +0000" channel="hallmark_romcoms">
-    <title lang="en">A Season to Blossom</title>
-    <desc lang="en">A drifting aspiring writer returns to sell her late grandmother's bookstore, but its traditions - and her childhood crush - helps her rediscover her voice, her roots, and a love worth staying for. Stars Emily Tennant, Carlo Marks.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221712-1789082124/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911004442 +0000" stop="20260911021400 +0000" channel="hallmark_romcoms">
-    <title lang="en">Branching Out</title>
-    <desc lang="en">To help build a family tree, single mom Amelia tracks down her daughter's biological father. It becomes a journey of trust, love, and discovering the meaning of family. Stars Sarah Drew, Juan Pablo Di Pace.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221713-1789087482/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911021400 +0000" stop="20260911034318 +0000" channel="hallmark_romcoms">
-    <title lang="en">My Argentine Heart</title>
-    <desc lang="en">Abril goes to Argentina to save her family ranch from being bought by her ex. But when outside forces threaten the ranch the pair must come together, rekindling their love in the process. Stars Julie Gonzalo, Juan Pablo Di Pace.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221714-1789092840/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911034318 +0000" stop="20260911051107 +0000" channel="hallmark_romcoms">
-    <title lang="en">The Secret Ingredient</title>
-    <desc lang="en">Small-town baker, Kelly, gets a big surprise when she is invited to compete on a Valentine's Day baking show in New York City - and an even bigger surprise when she runs into her ex-fiance. Stars Erin Cahill, Brendan Penny.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221715-1789098198/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911051107 +0000" stop="20260911064025 +0000" channel="hallmark_romcoms">
-    <title lang="en">Savoring Paris</title>
-    <desc lang="en">Disillusioned with her life, Ella embarks on a soul-searching journey to Paris where she navigates love, self-discovery and cheese amidst the enchanting backdrop of The City of Love.  Stars Bethany Joy Lenz and Stanley Weber.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221716-1789103467/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911064025 +0000" stop="20260911081149 +0000" channel="hallmark_romcoms">
-    <title lang="en">As Luck Would Have It</title>
-    <desc lang="en">Lindsey travels to Ireland to acquire land that is perfect for a resort.  She decides to enter the town's matchmaking festival to prove her investment and win over a handsome local. Starring JoAnna Garcia Swisher and Allen Leech.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221717-1789108825/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911081149 +0000" stop="20260911094107 +0000" channel="hallmark_romcoms">
-    <title lang="en">A Machu Picchu Proposal</title>
-    <desc lang="en">Katie helps plan her brother's proposal atop Machu Picchu. When the proposal is ruined by spontaneous Chef Carlos, Katie enlists Carlos to help her find the most romantic spot in all of Peru. Stars Rhiannon Fish and Alec Santos.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221718-1789114309/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911094107 +0000" stop="20260911111025 +0000" channel="hallmark_romcoms">
-    <title lang="en">A Melbourne Match</title>
-    <desc lang="en">Georgie, a travel writer, travels to Melbourne for an assignment where she meets Zach, an ex-Australian footballer who agrees to be her tour guide and shows her that there's more to life than work. Stars Mallory Jansen, Ryan Corr.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221719-1789119667/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1543-Non-Stop-Hallmark-Hits-DRM-9202294-1789230597/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
   <programme start="20260911111025 +0000" stop="20260911123943 +0000" channel="hallmark_romcoms">
     <title lang="en">A Little Park Music</title>
@@ -456,192 +280,181 @@
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221723-1789141259/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910111134 +0000" stop="20260910124052 +0000" channel="hallmark_christmas">
-    <title lang="en">Christmas Above the Clouds</title>
-    <desc lang="en">Eager to avoid Christmas, Ella Neezer, a CEO, books an international trip that skips the holiday, until three spirits journey Ella through her life to rediscover her Christmas spirit. Erin Krakow, Tyler Hynes.</desc>
+  <programme start="20260911171017 +0000" stop="20260911183935 +0000" channel="hallmark_romcoms">
+    <title lang="en">To Philly with Love</title>
+    <desc lang="en">A teacher and an archivist decode Revolutionary War-era love letters, taking them on a thrilling journey through Philadelphia where they uncover history and discover a love story of their own. Stars Rebecca Dalton, Stephen Huszar.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221420-1789038694/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221724-1789146617/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910124052 +0000" stop="20260910141055 +0000" channel="hallmark_christmas">
-    <title lang="en">Next Stop, Christmas</title>
-    <desc lang="en">Angie is determined to spend Christmas alone but her usual commuter ride turns into a Christmas train that drops her off in her home town in 2011. Stars Lyndsy Fonseca, Chandler Massey, Lea Thompson, and Christopher Lloyd.</desc>
+  <programme start="20260911183935 +0000" stop="20260911200757 +0000" channel="hallmark_romcoms">
+    <title lang="en">Love in Winterland</title>
+    <desc lang="en">Ally, a final contestant on a dating show, must face her high school sweetheart when she is chosen for the Hometown Date. Stars Italia Ricci, Chad Michael Murray, &amp; Jack Turner.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221421-1789044052/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221725-1789151975/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910141055 +0000" stop="20260910154013 +0000" channel="hallmark_christmas">
-    <title lang="en">Christmas with a Kiss</title>
-    <desc lang="en">A woman returns home to help with her family's Christmas Carnival and romance ignites. A photo journalist curates a surprise reunion. Starring Mishael Morgan, Ronnie Rowe Jr. and Jaime M Callica.</desc>
+  <programme start="20260911200757 +0000" stop="20260911213915 +0000" channel="hallmark_romcoms">
+    <title lang="en">The Royal We</title>
+    <desc lang="en">When her older sister elopes with a non-royal, Princess Bea who has lived her life away from her royal duties must now step in and honor the arranged marriage to a small kingdom prince. Stars Mallory Jansen, Charlie Carrick.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221422-1789049455/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221726-1789157277/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910154013 +0000" stop="20260910170931 +0000" channel="hallmark_christmas">
-    <title lang="en">Christmas with the Singhs</title>
-    <desc lang="en">Newly engaged Asha Singh and Jake O'Brien are excited to spend Christmas together, but their relationship is tested when their families' cultural and holiday traditions clash. Stars Anuja Joshi,  Benjamin Hollingsworth.</desc>
+  <programme start="20260911213915 +0000" stop="20260911230833 +0000" channel="hallmark_romcoms">
+    <title lang="en">Falling Together</title>
+    <desc lang="en">Natalie tries to bring feuding neighbors together in her new condo building. Her unexpected ally is the building's super who prefers to avoid getting involved. Stars Ashley Williams, Paul Campbell.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221423-1789054813/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221727-1789162755/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910170931 +0000" stop="20260910183849 +0000" channel="hallmark_christmas">
-    <title lang="en">Write Before Christmas</title>
-    <desc lang="en">Jessica sends Christmas cards to those special to her- the aunt who raised her, her brother, an aging popstar, the teacher that inspired her, and her friend that always tells the truth. Stars Torrey DeVitto, Chad Michael Murray.</desc>
+  <programme start="20260911230833 +0000" stop="20260912003751 +0000" channel="hallmark_romcoms">
+    <title lang="en">Right in Front of Me</title>
+    <desc lang="en">Carly has a second chance at romance with her college crush but is unable to impress him until her new friend Nick starts giving her advice. Soon she learns who the right man for her really is. Stars Janel Parrish, Marco Grazzini.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221424-1789060171/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221728-1789168113/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910183849 +0000" stop="20260910200807 +0000" channel="hallmark_christmas">
-    <title lang="en">An Alpine Holiday</title>
-    <desc lang="en">Two vastly different sisters follow their late grandparent's steps and experience everything the Alps has to offer- including romance. Starring Ashley Williams, Laci J. Mailey, and Julien Samani.</desc>
+  <programme start="20260912003751 +0000" stop="20260912020709 +0000" channel="hallmark_romcoms">
+    <title lang="en">A Royal Runaway Romance</title>
+    <desc lang="en">Princess Amelia of Bundbury travels across America to explore a budding romance with an artist, only to fall in love with her bodyguard Grady. Stars Philippa Northeast, Brant Daugherty.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221425-1789065529/poster/landscape/frequency-thumbnail?locale=en&amp;one_etagHash=25e4f31e" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221729-1789173471/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910200807 +0000" stop="20260910213725 +0000" channel="hallmark_christmas">
-    <title lang="en">Jingle Bell Run</title>
-    <desc lang="en">Self-described bookworm Avery is paired with retired hockey star Wes to compete in a holiday race across America. The team struggles through themed challenges until romance runs its course. Stars Ashley Williams, Andrew Walker.</desc>
+  <programme start="20260912020709 +0000" stop="20260912033627 +0000" channel="hallmark_romcoms">
+    <title lang="en">Love on the Amazon</title>
+    <desc lang="en">Claire travels to Brazil and hires Danny, a riverboat captain, to help her deliver an important message for her sister Amelia, a marine biologist studying pink dolphins on the Amazon River. Stars Jaicy Elliot, Rafael de la Fuente.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221426-1789070887/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221730-1789178829/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910213725 +0000" stop="20260910230643 +0000" channel="hallmark_christmas">
-    <title lang="en">The Christmas Baby</title>
-    <desc lang="en">A couple is surprised when a baby is mysteriously dropped off on their doorstep, forcing them to navigate a new terrain in their relationship and careers. Stars Ali Liebert , Katherine Barrell, and Barbara Niven.</desc>
+  <programme start="20260912033627 +0000" stop="20260912050545 +0000" channel="hallmark_romcoms">
+    <title lang="en">Catch of the Day</title>
+    <desc lang="en">On the eve of becoming a NY executive chef, Sophie returns home to help her family's flailing restaurant and runs into Cam, an old crush who makes her question everything. Stars Emilie Ullerup, Michael Rady, and Katie Lee Biegel.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221427-1789076245/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221731-1789184187/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910230643 +0000" stop="20260911003601 +0000" channel="hallmark_christmas">
-    <title lang="en">A Keller Christmas Vacation</title>
-    <desc lang="en">Siblings Dylan, Cal, and Emory are at a crossroads in their lives and have drifted apart. To help, their parents plan a family Christmas river cruise visiting Germany and Austria. Stars Jonathan Bennett, Brandon Routh, Eden Sher.</desc>
+  <programme start="20260912050545 +0000" stop="20260912063503 +0000" channel="hallmark_romcoms">
+    <title lang="en">All Summer Long</title>
+    <desc lang="en">Tia's dream job of captaining a dining cruise hits rough water when her ex Jake is hired as the restaurant's chef. Will they be able to open a new business, navigate the sea, and each other? Stars Autumn Reeser &amp; Brennan Elliott.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221428-1789081603/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221732-1789189545/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911003601 +0000" stop="20260911012134 +0000" channel="hallmark_christmas">
-    <title lang="en">The Search for Mr. Christmas</title>
-    <desc lang="en">Host Jonathan Bennett and judge Melissa Peterman kick off the hunt for Hallmark's next leading man as ten new hunks reinvent Santa, then brave a ski-slope meet-cute with Janel Parrish- where spills steal the scene.</desc>
+  <programme start="20260912063503 +0000" stop="20260912080421 +0000" channel="hallmark_romcoms">
+    <title lang="en">A Pinch of Portugal</title>
+    <desc lang="en">When a celebrity chef walks off his show, prep cook Anna must step into the spotlight and make the show her own, with the help of her Aussie cameraman and Portuguese location scout. Stars Heather Hemmens, Luke Mitchell.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221429-1789086961/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221733-1789194903/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911012134 +0000" stop="20260911025052 +0000" channel="hallmark_christmas">
-    <title lang="en">A Very Merry Bridesmaid</title>
-    <desc lang="en">Leah's 30th birthday is on Christmas Eve, the same day as her brother's wedding. Her childhood crush is back in town for the wedding and he is determined to make sure her birthday is celebrated. Stars Emily Osment, Casey Deidrick.</desc>
+  <programme start="20260912080421 +0000" stop="20260912093304 +0000" channel="hallmark_romcoms">
+    <title lang="en">Falling in Love in Niagara</title>
+    <desc lang="en">After her fiancé leaves her before their wedding, MADELINE goes to Niagara Falls to honeymoon without him. There, she reconnects with her adventurous side, learns to let go, and finds new love. Stars Jocelyn Hudon, Dan Jeannotte.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221430-1789089694/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221734-1789200261/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911025052 +0000" stop="20260911042246 +0000" channel="hallmark_christmas">
-    <title lang="en">One Royal Holiday</title>
-    <desc lang="en">When Anna offers a stranded mother and son shelter in a blizzard, she learns that they are the Royal Family of Galwick. Anna shows the Prince how they do Christmas in her hometown of Kentsbury. Stars Laura Osnes and Aaron Tveit.</desc>
+  <programme start="20260912093304 +0000" stop="20260912110116 +0000" channel="hallmark_romcoms">
+    <title lang="en">Don't Go Breaking My Heart</title>
+    <desc lang="en">Miranda runs a boot camp for the recently broken hearted. She begins to form a connection with new client Ben who is also a reporter, investigating whether her boot camp is a fad or a phenomenon. Stars Italia Ricci, Ryan Paevey.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221431-1789095052/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221735-1789205584/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911042246 +0000" stop="20260911055204 +0000" channel="hallmark_christmas">
-    <title lang="en">Time for Him to Come Home for Christmas</title>
-    <desc lang="en">Four days before Christmas, Elizabeth receives a voicemail from a number she doesn't recognize. On the message, a man she doesn't know makes one final plea to the love of his life. Holland Roden, Tyler Hynes, Tenille Townes.</desc>
+  <programme start="20260912110116 +0000" stop="20260912123034 +0000" channel="hallmark_romcoms">
+    <title lang="en">Blind Date Book Club</title>
+    <desc lang="en">A bookstore owner finds love and direction in life after agreeing to review a famous author's new novel in her blind-date-with-a-book club. Stars Erin Krakow, Robert Buckley.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221432-1789100566/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221736-1789210876/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911055204 +0000" stop="20260911072419 +0000" channel="hallmark_christmas">
-    <title lang="en">Holiday Touchdown: A Bills Love Story (Extended Cut)</title>
-    <desc lang="en">Lifelong Bills fans Morgan and Gabe find love in Buffalo at Christmas. Holland Roden, Matthew Daddario, and Joe Pantoliano.</desc>
+  <programme start="20260912123034 +0000" stop="20260912135952 +0000" channel="hallmark_romcoms">
+    <title lang="en">The Way to You</title>
+    <desc lang="en">New Yorkers Emma and Conrad agree to help each other find their missed connections after a subway blackout. Their search might lead to love, but not where either of them expects to find it. Stars Kim Matula, Aaron O'Connell.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221433-1789105924/poster/landscape/frequency-thumbnail?locale=en&amp;one_etagHash=be69d158" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221737-1789216234/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911072419 +0000" stop="20260911085408 +0000" channel="hallmark_christmas">
-    <title lang="en">Christmas Under Wraps</title>
-    <desc lang="en">With a residency at a top hospital and a boyfriend she adores, Lauren appears to have her entire life figured out. But when she loses both her job and her beau on the same day, Lauren reluctantly accepts a position in Alaska.</desc>
+  <programme start="20260912135952 +0000" stop="20260912152714 +0000" channel="hallmark_romcoms">
+    <title lang="en">You're Bacon Me Crazy</title>
+    <desc lang="en">Cleo Morelli, an aspiring Portland chef, tries to win a food truck competition while the competition tries to win her heart. Stars Natalie Hall and Michael Rady.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221434-1789111459/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221738-1789221592/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911085408 +0000" stop="20260911102326 +0000" channel="hallmark_christmas">
-    <title lang="en">Karen Kingsbury's Maggie's Christmas Miracle</title>
-    <desc lang="en">Single mom Maggie is trying to be devoted to son Jordan while having a career. Jordan meets Casey, a tutor. They bond. What he wishes most is for his mom to find happiness and love at Christmas. Stars Jill Wagner, Luke Macfarlane.</desc>
+  <programme start="20260912152714 +0000" stop="20260912165632 +0000" channel="hallmark_romcoms">
+    <title lang="en">I'll Be Seeing You</title>
+    <desc lang="en">When a work errand derails Amy's weekend plans with her grandma, they embark on a road trip with one sentimental detour but need the help of a charming activities director. Stars Tyler Hynes, Stacey Farber, Christine Ebersole.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221435-1789116848/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260911102326 +0000" stop="20260911115244 +0000" channel="hallmark_christmas">
-    <title lang="en">Debbie Macomber's Joyful Mrs. Miracle</title>
-    <desc lang="en">Mrs. Miracle uses Christmas magic to reunite three siblings who must decide who will inherit the family's real estate empire following their grandmother's passing. Stars Rachel Boston, Pascal Lamothe-Kipnes, and Tanner Novlan.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221436-1789122206/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1268-Non-Stop-RomComs-DRM-9221739-1789226834/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
   <programme start="20260911115244 +0000" stop="20260911132202 +0000" channel="hallmark_christmas">
     <title lang="en">Miracle in Bethlehem, PA</title>
@@ -676,181 +489,192 @@
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221439-1789138280/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910111857 +0000" stop="20260910124815 +0000" channel="hallmark_mysteries">
-    <title lang="en">Aurora Teagarden Mysteries: Death at the Diner</title>
-    <desc lang="en">When the owner of the diner where Aurora Teagarden works is suddenly killed, her new boyfriend becomes the primary suspect! Stars Skyler Samuels, Evan Roderick and Marilu Henner.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Hallmark</category>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221525-1789039137/poster/landscape/frequency-thumbnail?locale=en" />
-  </programme>
-  <programme start="20260910124815 +0000" stop="20260910141733 +0000" channel="hallmark_mysteries">
-    <title lang="en">CrimeTime: Freefall</title>
-    <desc lang="en">Crime series actress Hadley Warner retires to a small town where she encounters her first real case. Using her TV crime knowledge, she teams up with Detective Caden to solve the case. Starring Lyndie Greenwood, Luke Macfarlane.</desc>
+  <programme start="20260911162038 +0000" stop="20260911174943 +0000" channel="hallmark_christmas">
+    <title lang="en">Time for You to Come Home for Christmas</title>
+    <desc lang="en">When Katherine returns home after her husband passed, she meets a veteran who is on his own holiday journey. As Christmas nears, they learn of a bond that may be the miracle they need. Stars Alison Sweeney, Lucas Bryant.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
       <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221526-1789044495/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221440-1789143638/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910141733 +0000" stop="20260910154651 +0000" channel="hallmark_mysteries">
-    <title lang="en">Mystery 101: Pilot</title>
-    <desc lang="en">When a college student is found dead, English professor Amy uses her crime fiction expertise to unravel the case faster than detective Travis, who ends up working with Amy to catch the killer. Stars Jill Wagner, Kristoffer Polaha.</desc>
+  <programme start="20260911174943 +0000" stop="20260911191901 +0000" channel="hallmark_christmas">
+    <title lang="en">Christmas at the Catnip Café</title>
+    <desc lang="en">After inheriting part ownership of a cat cafe, Olivia must spend the weeks leading up to Christmas working there to try and convince veterinarian Ben to sell but manages to find love instead. Staring Erin Cahill and Paul Campbell.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221527-1789049853/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221441-1789148983/poster/landscape/frequency-thumbnail?locale=en&amp;one_etagHash=fdcada67" />
   </programme>
-  <programme start="20260910154651 +0000" stop="20260910171533 +0000" channel="hallmark_mysteries">
-    <title lang="en">Mystery 101: Playing Dead</title>
-    <desc lang="en">The local theater is producing a mystery that crime fiction expert Amy unearthed.  When one of the actress' life is threatened, Amy &amp; Travis must uncover which character is playing for keeps. Stars Jill Wagner, Kristoffer Polaha.</desc>
+  <programme start="20260911191901 +0000" stop="20260911205048 +0000" channel="hallmark_christmas">
+    <title lang="en">A Godwink Christmas</title>
+    <desc lang="en">Through a series of coincidences, known as Godwinks, Paula and Gery find their paths keep crossing at Christmas on Martha's Vineyard, as if they are destined for each other. Stars Kathy Lee Gifford, Kimberly Sustad, Paul Campbell.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221528-1789055211/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221442-1789154341/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910171533 +0000" stop="20260910184451 +0000" channel="hallmark_mysteries">
-    <title lang="en">Mystery 101: Words Can Kill</title>
-    <desc lang="en">When a guest at the college book festival is killed, Amy and Travis clash after he arrests an unlikely person for murder. Amy must fight to prove he's got the wrong person behind bars. Starring Jill Wagner and Kristoffer Polaha.</desc>
+  <programme start="20260911205048 +0000" stop="20260911222006 +0000" channel="hallmark_christmas">
+    <title lang="en">Following Yonder Star</title>
+    <desc lang="en">A former television star waits out a scandal in Vermont. She becomes close with the innkeeper and his daughter while she helps him direct the local children's Christmas pageant. Stars Brooke D'Orsay and John Brotherton.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221529-1789060533/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221443-1789159848/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910184451 +0000" stop="20260910201409 +0000" channel="hallmark_mysteries">
-    <title lang="en">Mystery 101: Dead Talk</title>
-    <desc lang="en">Amy heads to Seattle to give a TED Talk-style lecture. When a tech genius dies, Amy suspects foul play. When local cops shut her out, Travis joins forces with Amy to figure out whodunit. Stars Jill Wagner, Kristoffer Polaha.</desc>
+  <programme start="20260911222006 +0000" stop="20260911234928 +0000" channel="hallmark_christmas">
+    <title lang="en">A Maple Valley Christmas</title>
+    <desc lang="en">Rancher Erica has spent her whole life working the family farm with her mother and sister. When Aaron arrives and disrupts her plans, she starts to question what it is she actually wants. Starring Peyton List and Andrew Walker.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221530-1789065891/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221444-1789165206/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910201409 +0000" stop="20260910214318 +0000" channel="hallmark_mysteries">
-    <title lang="en">Mystery 101: An Education in Murder</title>
-    <desc lang="en">A young writer's research prompts the police to revisit a famous murder case that convicted Amy's colleague at Elmstead, so Travis &amp; Amy get a second chance at clearing the professor's name. Stars Jill Wagner &amp; Kristoffer Polaha.</desc>
+  <programme start="20260911234928 +0000" stop="20260912012233 +0000" channel="hallmark_christmas">
+    <title lang="en">The Most Wonderful Time of the Year</title>
+    <desc lang="en">Single mom Jennifer Cullen is having trouble finding joy in the holiday season.  Then her Uncle Ralph arrives at her home with the young, handsome Morgan Derby.  Morgan's love of Christmas, and life, is contagious.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221531-1789071249/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221445-1789170568/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910214318 +0000" stop="20260910231311 +0000" channel="hallmark_mysteries">
-    <title lang="en">Mystery 101: Killer Timing</title>
-    <desc lang="en">An escaped serial killer and an attempt on Travis's life makes this their most dangerous case yet as Amy and Travis team up with his FBI agent ex to find the connection before it's too late. Stars Jill Wagner &amp; Kristoffer Polaha.</desc>
+  <programme start="20260912012233 +0000" stop="20260912025151 +0000" channel="hallmark_christmas">
+    <title lang="en">Santa Tell Me</title>
+    <desc lang="en">A design show host finds a letter from Santa promising to meet her true love, a man named Nick, by Christmas Eve. Meeting three Nicks complicates her search. Stars Erin Krakow, Daniel Lissing, Benjamin Ayres, Christopher Russell.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221532-1789076598/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221446-1789176153/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260910231311 +0000" stop="20260911004219 +0000" channel="hallmark_mysteries">
-    <title lang="en">Mystery 101: Deadly History</title>
-    <desc lang="en">Amy and Travis travel to New York to investigate after Amy's uncle goes missing, and the initial clues make them fear the worst. Stars Jill Wagner, Kristoffer Polaha, Robin Thomas.</desc>
+  <programme start="20260912025151 +0000" stop="20260912042115 +0000" channel="hallmark_christmas">
+    <title lang="en">Single on the 25th</title>
+    <desc lang="en">Despite being lonely during the holidays, Nell finds a fresh outlook when her neighbor Cooper shows her the joy of celebrating Christmas single. Starring Lyndsy Fonseca and Daniel Lissing.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221533-1789081991/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221447-1789181511/poster/landscape/frequency-thumbnail?locale=en&amp;one_etagHash=fbd37284" />
   </programme>
-  <programme start="20260911004219 +0000" stop="20260911021137 +0000" channel="hallmark_mysteries">
-    <title lang="en">Cut, Color, Murder</title>
-    <desc lang="en">When a beauty pageant creator is found dead, a savvy hairdresser works with the new detective in town and risks everything to clear the names of those she loves.  Stars Julie Gonzalo, Ryan McPartlin.</desc>
+  <programme start="20260912042115 +0000" stop="20260912055142 +0000" channel="hallmark_christmas">
+    <title lang="en">The Sweetest Christmas</title>
+    <desc lang="en">A struggling pastry chef must embrace the Christmas spirit or risk losing both the contest and a second chance at love. Stars Lacey Chabert and Lea Coco.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221534-1789087339/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221448-1789186875/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911021137 +0000" stop="20260911034055 +0000" channel="hallmark_mysteries">
-    <title lang="en">Jazz Ramsey: A K-9 Mystery</title>
-    <desc lang="en">When JAZZ RAMSEY and her crime detection dog ZEUS stumble upon an old crime scene, the K9 trainer, her star pup, and ex-boyfriend and lead detective NICK are thrown into the investigation. Stars Rachel Skarsten, Corey Sevier.</desc>
+  <programme start="20260912055142 +0000" stop="20260912071952 +0000" channel="hallmark_christmas">
+    <title lang="en">Pride, Prejudice, and Mistletoe</title>
+    <desc lang="en">When Darcy returns home to plan a Christmas charity event with her old rival Luke, she realizes what is important in life by repairing her relationship with her father and finding love.  Stars Lacey Chabert and Brendan Penny.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221535-1789092697/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221449-1789192302/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911034055 +0000" stop="20260911051013 +0000" channel="hallmark_mysteries">
-    <title lang="en">Sweet Revenge: A Hannah Swensen Mystery</title>
-    <desc lang="en">As Hannah and Mike experience engaged life while balancing their busy careers, a murder at a 24-hour gym complicates their wedding planning. Stars Alison Sweeney, Cameron Mathison, Barbara Niven.</desc>
+  <programme start="20260912071952 +0000" stop="20260912084839 +0000" channel="hallmark_christmas">
+    <title lang="en">Christmas Waltz</title>
+    <desc lang="en">After Avery's storybook Christmas wedding is canceled, a dance instructor helps her face her fears in life and fulfill her dream of learning to dance. Stars Lacey Chabert and Will Kemp.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221536-1789098055/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221450-1789197592/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911051013 +0000" stop="20260911063931 +0000" channel="hallmark_mysteries">
-    <title lang="en">Carrot Cake Murder: A Hannah Swensen Mystery</title>
-    <desc lang="en">The discovery of a skeleton in an old building leads to a murder investigation. Alison Sweeney, Cameron Mathison, Gabriel Hogan, Barbara Niven.</desc>
+  <programme start="20260912084839 +0000" stop="20260912101709 +0000" channel="hallmark_christmas">
+    <title lang="en">A Christmas Melody</title>
+    <desc lang="en">An inspiring Christmas story about a single mother, Kari, moving back to her hometown with her young daughter, Emily. When the little girl has a hard time adjusting, she seeks out the help of her music teacher, Danny.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221537-1789103413/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221451-1789202919/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911063931 +0000" stop="20260911080849 +0000" channel="hallmark_mysteries">
-    <title lang="en">A Zest for Death: A Hannah Swensen Mystery</title>
-    <desc lang="en">Hannah solves a murder while her relationship with Mike is on the rocks. Alison Sweeney, Cameron Mathison, Barbara Niven.</desc>
+  <programme start="20260912101709 +0000" stop="20260912114531 +0000" channel="hallmark_christmas">
+    <title lang="en">Time for Us to Come Home for Christmas</title>
+    <desc lang="en">Five guests are mysteriously invited to an inn to celebrate Christmas. With the help of the owner Ben, Sarah discovers that an event from the past may connect them and change their lives forever. Lacey Chabert, Stephen Huszar.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221538-1789108771/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221452-1789208229/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911080849 +0000" stop="20260911093807 +0000" channel="hallmark_mysteries">
-    <title lang="en">One Bad Apple: A Hannah Swensen Mystery</title>
-    <desc lang="en">Hannah meets a new side of law &amp; order as she investigates a murder and crosses paths with by-the-books prosecuting attorney Chad Norton.  Meanwhile, Delores has a secret. Stars Alison Sweeney, Victor Webster and Barbara Niven.</desc>
+  <programme start="20260912114531 +0000" stop="20260912131449 +0000" channel="hallmark_christmas">
+    <title lang="en">Picture a Perfect Christmas</title>
+    <desc lang="en">A photographer who travels the world takes a few days off around the holidays to care for her grandmother. While there, she meets her neighbor, DAVID who needs help watching his 7 year old nephew. Stars Merritt Patterson, Jon Cor.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221539-1789114129/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221453-1789213531/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
-  <programme start="20260911093807 +0000" stop="20260911110725 +0000" channel="hallmark_mysteries">
-    <title lang="en">A Sprinkle of Deceit: A Hannah Swensen Mystery</title>
-    <desc lang="en">Hannah and Chad flirt with their own paths to solve the same murder while working to clear a colleague who is implicated in the crime. Meanwhile, Delores gets her big break. Stars Alison Sweeney, Victor Webster and Barbara Niven.</desc>
+  <programme start="20260912131449 +0000" stop="20260912144407 +0000" channel="hallmark_christmas">
+    <title lang="en">Tidings for the Season</title>
+    <desc lang="en">News anchor, Adam, is challenged by superfan, Robbie, to report good news at Christmas. Adam reluctantly takes him under his wing and finds a connection with Robbie's mom. Stars Tamera Mowry-Housley, BJ Britt, Elijah-Justus Lewis.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
     <category lang="en">Hallmark</category>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
-    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221540-1789119487/poster/landscape/frequency-thumbnail?locale=en" />
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221454-1789218889/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912144407 +0000" stop="20260912153112 +0000" channel="hallmark_christmas">
+    <title lang="en">Home for the Holidays</title>
+    <desc lang="en">Host Tamera Mowry-Housley greets ten family pairs of bakers at the holiday baking barn, where they first must prove themselves with pie, and then heat things up with some exquisite yule logs.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221455-1789224247/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912153112 +0000" stop="20260912170034 +0000" channel="hallmark_christmas">
+    <title lang="en">Checkin' It Twice</title>
+    <desc lang="en">A journeyman hockey player falls for a real estate agent in a career crisis when he's traded to her hometown and moves into the cottage in her hockey loving family's backyard. Starring Kim Matula and Kevin McGarry.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1187-Non-Stop-Christmas-DRM-9221456-1789227072/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
   <programme start="20260911110725 +0000" stop="20260911123643 +0000" channel="hallmark_mysteries">
     <title lang="en">Reality Bites: A Hannah Swensen Mystery</title>
@@ -895,5 +719,181 @@
       <value>TV-PG</value>
     </rating>
     <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221544-1789140919/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260911170418 +0000" stop="20260911183426 +0000" channel="hallmark_mysteries">
+    <title lang="en">Morning Show Mysteries: A Murder in Mind</title>
+    <desc lang="en">Billie Blessings investigates murder charges against friend and actress Katie Saunders, when a death is linked to her TV show based on a series of novels about a corrupt local lawyer. Stars Holly Robinson Peete, Rick Fox.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221545-1789146258/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260911183426 +0000" stop="20260911200107 +0000" channel="hallmark_mysteries">
+    <title lang="en">Francesca Quinn, PI</title>
+    <desc lang="en">Private investigator Francesca "Frankie" Quinn is hired to find her fiancée's killer. She must work with her detective ex, Wyn, and trust the person who broke them up and ruined their lives. Stars Mallory Jansen, Dylan Bruce.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221546-1789151666/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260911200107 +0000" stop="20260911213025 +0000" channel="hallmark_mysteries">
+    <title lang="en">Crimes of Fashion: Killer Clutch</title>
+    <desc lang="en">An American psychologist, hired to coach a fashion designer, helps a guarded French detective unravel a list of fashionable suspects after a murder happens backstage of a Paris fashion show. Stars Brooke D'Orsay, Gilles Marini.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221547-1789156867/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260911213025 +0000" stop="20260911225943 +0000" channel="hallmark_mysteries">
+    <title lang="en">The Jane Mysteries: Inheritance Lost</title>
+    <desc lang="en">Singer Jane DaSilva inherits the family foundation which finds justice for those who aren't able to help themselves. Together with Detective John Cameron she brings hope to many hopeless cases. Stars Jodie Sweetin, Stephen Huszar.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221548-1789162225/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260911225943 +0000" stop="20260912002901 +0000" channel="hallmark_mysteries">
+    <title lang="en">Family Practice Mysteries: Coming Home</title>
+    <desc lang="en">A former Army surgeon moves back to her hometown and joins a practice of family doctors, but when she's drawn into solving the mysterious death of a patient, her quiet life becomes upended. Stars Amanda Schull, Brendan Penny.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221549-1789167583/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912002901 +0000" stop="20260912015723 +0000" channel="hallmark_mysteries">
+    <title lang="en">Gourmet Detective Pilot</title>
+    <desc lang="en">A chef turned culinary sleuth is partnered with a beautiful detective to unravel the clues surrounding the unexpected death of a guest at a prestigious dinner party. Stars Dylan Neal, Brooke Burns and Matthew Kevin Anderson.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221550-1789172941/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912015723 +0000" stop="20260912032656 +0000" channel="hallmark_mysteries">
+    <title lang="en">A Healthy Place to Die: A Gourmet Detective Mystery</title>
+    <desc lang="en">When Henry, the Gourmet Detective, is invited as a guest speaker at a luxury resort spa, he quickly finds himself at the center of another murder. Stars Dylan Neal and Brooke Burns.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221551-1789178243/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912032656 +0000" stop="20260912045844 +0000" channel="hallmark_mysteries">
+    <title lang="en">Death al Dente: A Gourmet Detective Mystery</title>
+    <desc lang="en">San Francisco homicide detective Maggie Price and former, world-class chef Henry Ross are on the case once again. The crime-solving odd couple investigates the murder of Henry's friend.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221552-1789183616/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912045844 +0000" stop="20260912062802 +0000" channel="hallmark_mysteries">
+    <title lang="en">Eat, Drink and Be Buried: A Gourmet Detective Mystery</title>
+    <desc lang="en">Henry and Maggie attend party of a local publisher, where his son and stepson reenact a historical dual. Someone, however, has loaded the pistol with a real musket ball, so when son pulls the trigger, he kills his stepbrother.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221553-1789189124/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912062802 +0000" stop="20260912075845 +0000" channel="hallmark_mysteries">
+    <title lang="en">Roux the Day: A Gourmet Detective Mystery</title>
+    <desc lang="en">Henry and Maggie find themselves in a murder mystery where secrets hidden within a treasured recipe book have dire consequences for all who own it. Starring Dylan Neal and Brooke Burns.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221554-1789194482/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912075845 +0000" stop="20260912092803 +0000" channel="hallmark_mysteries">
+    <title lang="en">Signed, Sealed, Delivered: A Tale of Three Letters</title>
+    <desc lang="en">The POstables are back identifying the intended recipients of a trio of dead letters which have a surprising, personal impact on all of them.  Stars Eric Mabius, Kristin Booth, Yan-Kay Crystal Lowe, Geoff Gustafson, Rhiannon Fish.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221555-1789199925/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912092803 +0000" stop="20260912105828 +0000" channel="hallmark_mysteries">
+    <title lang="en">Hailey Dean Mysteries: Murder, with Love</title>
+    <desc lang="en">Former prosecutor-turned-therapist Hailey Dean is acutely observant. During a tragic week, one of her patients loses her parents to fatal accidents. Stars Kellie Martin, Viv Leacock, Giacomo Baessato, Cindy Busby.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221556-1789205283/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912105828 +0000" stop="20260912122717 +0000" channel="hallmark_mysteries">
+    <title lang="en">Hailey Dean Mysteries: Deadly Estate</title>
+    <desc lang="en">When Hailey helps her friend Pam sell her recently deceased parent's estate, she becomes suspicious when Pam suddenly leaves town without notice.  To make matters worse, Pam's boyfriend is the sudden victim of an accident.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221557-1789210708/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912122717 +0000" stop="20260912135630 +0000" channel="hallmark_mysteries">
+    <title lang="en">Hailey Dean Mysteries: Dating is Murder</title>
+    <desc lang="en">Attorney turned therapist Hailey Dean is pulled into another investigation when a popular new dating app links multiple missing persons cases from around the city. Stars Kellie Martin.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221558-1789216037/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912135630 +0000" stop="20260912152547 +0000" channel="hallmark_mysteries">
+    <title lang="en">Emma Fielding Mysteries: Site Unseen</title>
+    <desc lang="en">A dedicated archaeologist gets involved in a murder investigation when she and her students unearth a dead body while searching for evidence of a 17th-century coastal Maine settlement. Stars Courtney Thorne-Smith and James Tupper.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221559-1789221390/poster/landscape/frequency-thumbnail?locale=en" />
+  </programme>
+  <programme start="20260912152547 +0000" stop="20260912165505 +0000" channel="hallmark_mysteries">
+    <title lang="en">Emma Fielding Mysteries: Past Malice</title>
+    <desc lang="en">When Emma Fielding is recruited to aid in a groundbreaking discovery beneath the Chandler Castle, she is swept into another mystery when she finds her colleague murdered in the crypts. Stars Courtney Thorne Smith, James Tupper.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Hallmark</category>
+    <rating system="VCHIP">
+      <value>TV-G</value>
+    </rating>
+    <icon src="https://097d0e9f.customer.static.core.one.accedo.tv/097d0e9f2de0f04b/image/item/program-Linear-1186-Non-Stop-Mysteries-DRM-9221560-1789226747/poster/landscape/frequency-thumbnail?locale=en" />
   </programme>
 </tv>
